@@ -21,6 +21,8 @@ Nice to haves:
 
 Do not display products with errors, in this case a product is in error if there is no image available.
 
+Approx: 2h
+
 ## RESOURCES:
 
 Design : https://www.figma.com/file/8htFugcxG2KaKG2dAdU5RJ/dev-inte?node-id=0%3A1
