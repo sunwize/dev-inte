@@ -25,4 +25,4 @@ Nuxt : https://nuxtjs.org/
 2. yarn install
 3. yarn dev
 
-You can work on pages/index.vue (root of application)
+You can work on pages/index.vue (root of application) and push fork or just a send zip of project when it's finished.
