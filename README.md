@@ -10,7 +10,7 @@ Try to integrate this static page (without the dynamic features), respecting as 
 
 Focusing on the user experience, this integration must reflect your ability to offer rich pages while respecting the proposed designs and code quality !
 
-Duration : appox 2h.
+Duration : approx 2h.
 
 Design : https://www.figma.com/file/8htFugcxG2KaKG2dAdU5RJ/dev-inte?node-id=0%3A1
 
