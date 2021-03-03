@@ -1,7 +1,7 @@
 # dev-inte
 ## TEST
 
-Create a product collection page using this <a href="https.nuxtjs.org">Nuxt</a> project, to the best of your ability. Try and implement as many best practices as possible. Using the figma file, try and replicate the design as accuratly as possible. There is also a JSON file to replicate a response from an API. Once you are done, submit a pull request to this repo.
+Create a product collection page using this <a href="https://www.nuxtjs.org">Nuxt</a> project, to the best of your ability. Try and implement as many best practices as possible. Using the figma file, try and replicate the design as accuratly as possible. There is also a JSON file to replicate a response from an API. Once you are done, submit a pull request to this repo.
 
 We will be looking for your knowledge in the following areas:
 - Well formed HTML (bonus for HTML5)
