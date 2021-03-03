@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Limitless Sport Long Sleeve Top",
+      "description": "This is a Limitless Sport Long Sleeve Top",
+      "image": "https://s3.amazonaws.com/lole.product.images/products/950/LSW3885_W101_1.jpg",
+      "colors": ["blue", "red", "green"],
+      "collections": ["summer-sale", "new-arrivals"],
+      "gender": "women",
+      "categories": ["tops", "t-shirt"],
+      "price": 4500,
+      "discount_price": 3500
+    },
+    {
+      "id": 2,
+      "title": "Half Moon High Waisted Workout Short",
+      "description": "This is the Half Moon High Waisted Workout Short",
+      "image": "https://s3.amazonaws.com/lole.product.images/products/950/LSW3906_K735_1.jpg",
+      "colors": ["blue", "red", "green", "yellow", "purple", "orange"],
+      "collections": ["workout-gear", "new-arrivals"],
+      "gender": "women",
+      "categories": ["bottoms", "shorts"],
+      "price": 5500
+    },
+    {
+      "id": 3,
+      "title": "Gateway Short Sleeve Dress",
+      "description": "This is the Gateway Short Sleeve Dress",
+      "image": "https://s3.amazonaws.com/lole.product.images/products/950/LSW3979_N101_1.jpg",
+      "colors": ["blue", "red"],
+      "collections": ["workout-gear", "new-arrivals"],
+      "gender": "women",
+      "categories": ["dress", "short-sleeve"],
+      "price": 4399
+    },
+    {
+      "id": 4,
+      "title": "Burst Edition High Waisted Leggings",
+      "description": "These are the Burst Edition High Waisted Leggings",
+      "image": "https://s3.amazonaws.com/lole.product.images/products/950/LSW3890_V742_1.jpg",
+      "colors": ["purple", "white"],
+      "collections": ["workout-gear", "new-arrivals"],
+      "gender": "women",
+      "categories": ["bottoms", "leggings"],
+      "price": 4500
+    },
+    {
+      "id": 5,
+      "title": "Katie Jacket",
+      "description": "This is the Katie Jacket",
+      "image": "https://s3.amazonaws.com/lole.product.images/products/950/LUW0575_R258_1.jpg",
+      "colors": ["blue", "red", "green"],
+      "collections": ["winter-sale", "last-chance"],
+      "gender": "women",
+      "categories": ["jacket", "packable"],
+      "price": 9500,
+      "discount_price": 4500
+    },
+    {
+      "id": 6,
+      "title": "Faith L Edition Jacket",
+      "description": "This is the Faith L Edition Jacket",
+      "image": "https://s3.amazonaws.com/lole.product.images/products/950/LUW0679_N101_1.jpg",
+      "colors": ["blue", "red", "green"],
+      "collections": ["winter-sale", "last-chance"],
+      "gender": "women",
+      "categories": ["jacket", "winter"],
+      "price": 9900
+    },
+    {
+      "id": 7,
+      "title": "Faith H Edition Jacket",
+      "description": "This is the Faith H Edition Jacket",
+      "image": "",
+      "colors": ["blue", "red", "green"],
+      "collections": ["winter-sale", "last-chance"],
+      "gender": "women",
+      "categories": ["jacket", "winter"],
+      "price": 9900
+    },
+    {
+      "id": 8,
+      "title": "Faith EZ Edition Jacket",
+      "description": "This is the Faith EZ Edition Jacket",
+      "image": "",
+      "colors": ["blue", "red", "green"],
+      "collections": ["winter-sale", "last-chance"],
+      "gender": "women",
+      "categories": ["jacket", "winter"],
+      "price": 9900
+    },
+    {
+      "id": 9,
+      "title": "Claudia Packable Jacket",
+      "description": "This is the Claudia Packable Jacket",
+      "image": "https://s3.amazonaws.com/lole.product.images/products/950/LUW0631_V596_1.jpg",
+      "colors": ["red"],
+      "collections": ["spring-sale", "trending"],
+      "gender": "women",
+      "categories": ["jacket", "packable"],
+      "price": 12500,
+      "discount_price": 9900
+    },
+    {
+      "id": 10,
+      "title": "Glee Jacket",
+      "description": "This is the Glee Jacket",
+      "image": "https://s3.amazonaws.com/lole.product.images/products/950/LUW0584_R258_1.jpg",
+      "colors": ["blue", "green", "purple"],
+      "collections": ["winter-sale", "last-chance"],
+      "gender": "women",
+      "categories": ["jacket", "packable"],
+      "price": 11900
+    },
+    {
+      "id": 11,
+      "title": "Emeline Aop Packable Jacket",
+      "description": "This is the Emeline Aop Packable Jacket",
+      "image": "https://s3.amazonaws.com/lole.product.images/products/950/LUW0606_N667_1.jpg",
+      "colors": ["red", "green", "orange"],
+      "collections": ["winter-sale", "last-chance"],
+      "gender": "women",
+      "categories": ["jacket", "winter"],
+      "price": 12000
+    },
+    {
+      "id": 12,
+      "title": "Carter Mock Zip Neck L/S",
+      "description": "This is the Carter Mock Zip Neck L/S",
+      "image": "https://s3.amazonaws.com/lole.product.images/products/950/LSM0025_N101_1.jpg",
+      "colors": ["blue", "red", "green", "orange"],
+      "collections": ["winter-sale", "last-chance"],
+      "gender": "men",
+      "categories": ["tops", "long-sleved"],
+      "price": 7500
+    },
+    {
+      "id": 13,
+      "title": "Ryder Polo",
+      "description": "This is the Ryder Polo",
+      "image": "https://s3.amazonaws.com/lole.product.images/products/950/LSM0042_BA26_1.jpg",
+      "colors": ["blue", "red", "green"],
+      "collections": ["spring-sale", "new-arrivals"],
+      "gender": "men",
+      "categories": ["tops", "t-shirt"],
+      "price": 4500,
+      "discount_price": 3500
+    },
+    {
+      "id": 14,
+      "title": "Tom Polo",
+      "description": "This is the Tom Polo",
+      "image": "https://www.shopify.com/product",
+      "colors": ["purple", "red", "orange"],
+      "collections": ["spring-sale", "new-arrivals"],
+      "gender": "men",
+      "categories": ["tops", "t-shirt"],
+      "price": 4500
+    },
+    {
+      "id": 15,
+      "title": "Elliot Crew Sweatshirt",
+      "description": "This is the Elliot Crew Sweatshirt",
+      "image": "https://s3.amazonaws.com/lole.product.images/products/950/LSM0045_BA16_1.jpg",
+      "colors": ["blue", "red", "green", "black", "yellow"],
+      "collections": ["winter-sale", "last-chance"],
+      "gender": "men",
+      "categories": ["tops", "sweaters"],
+      "price": 9900,
+      "discount_price": 5550
+    }
+  ]
+}

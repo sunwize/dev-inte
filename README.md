@@ -1,28 +1,30 @@
 # dev-inte
 ## TEST
 
-Try to integrate this static page (without the dynamic features), respecting as much as possible:
-- SEO
+Create a product collection page using this <a href="https.nuxtjs.org">Nuxt</a> project, to the best of your ability. Try and implement as many best practices as possible. Using the figma file, try and replicate the design as accuratly as possible. There is also a JSON file to replicate a response from an API. Once you are done, submit a pull request to this repo.
+
+We will be looking for your knowledge in the following areas:
+- Well formed HTML (bonus for HTML5)
+- Responsive design, the page should look good on mobile and desktop (bonus for pure css)
+- Javascript, use Vue and Nuxt where best applied.
+- SEO friendly
 - Accessibility (WCAG)
-- Animations (eg: small animations when hovering a button).
-- Performances (load time, weight)
-- Bonus: i18n, header, footer
+- Performance (load time, weight, etc.)
 
-Focusing on the user experience, this integration must reflect your ability to offer rich pages while respecting the proposed designs and code quality !
+Nice to haves:
+- Animations / transitions where applicable (eg: a nice hovering effect on a button).
+- Reusable components that make sense.
+- A site layout that can be used on multiple pages
+- Translations (i18n)
+- Functionality to filter products
+- Live version we can test online
 
-Duration : approx 2h.
+Do not display products with errors, in this case a product is in error if there is no image available.
+
+## RESOURCES:
 
 Design : https://www.figma.com/file/8htFugcxG2KaKG2dAdU5RJ/dev-inte?node-id=0%3A1
 
-## NUXT
-We use Nuxt as a JavaScript framework (VueJS), the application and the working environment are already created.
-`yarn dev` allows you to start the development environment.
+Data: ./assets/products.json
 
-Nuxt : https://nuxtjs.org/
-
-### Installation (can use npm too)
-1. Clone project
-2. yarn install
-3. yarn dev
-
-You can work on pages/index.vue (root of application) and push fork or just a send zip of project when it's finished.
+Please feel free to ask any questions that you have!
