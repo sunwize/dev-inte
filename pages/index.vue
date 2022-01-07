@@ -11,7 +11,7 @@
 export default {
   head() {
     return {
-      title: 'Lëlo Life',
+      title: 'Löle Life',
       meta: [
         {hid: 'description', name: 'description', content: 'Some content...'},
         {
@@ -19,9 +19,9 @@ export default {
           name: 'author',
           content: 'Colin Clisson'
         },
-        {hid: 'og:title', property: 'og:title', content: 'Lëlo Life'},
+        {hid: 'og:title', property: 'og:title', content: 'Löle Life'},
         {hid: 'og:image', property: 'og:image', content: this.items[0].image},
-        {hid: 'twitter:title', property: 'twitter:title', content: 'Lëlo Life'}
+        {hid: 'twitter:title', property: 'twitter:title', content: 'Löle Life'}
       ]
     }
   },
