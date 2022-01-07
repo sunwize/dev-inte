@@ -56,6 +56,10 @@ export default {
 .filters {
   padding: 0 2rem;
 
+  @media screen and (max-width: 600px) {
+    display: none;
+  }
+
   a {
     font-size: 0.9rem;
     color: #4D4D4FFF;
