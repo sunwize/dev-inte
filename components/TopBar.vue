@@ -24,16 +24,16 @@
           <span>FR</span>
         </li>
 
-        <li>
-          <img :src="require('../assets/icons/search.svg')" alt="search" class="icon">
+        <li class="icon">
+          <img :src="require('../assets/icons/search.svg')" alt="search">
         </li>
 
-        <li>
-          <img :src="require('../assets/icons/user-regular.svg')" alt="user" class="icon">
+        <li class="icon">
+          <img :src="require('../assets/icons/user-regular.svg')" alt="user">
         </li>
 
-        <li style="position: relative">
-          <img :src="require('../assets/icons/shopping-bag.svg')" alt="shopping" class="icon">
+        <li class="icon" style="position: relative">
+          <img :src="require('../assets/icons/shopping-bag.svg')" alt="shopping">
           <div class="badge-quantity">1</div>
         </li>
       </ul>
@@ -65,6 +65,10 @@ export default {
     display: flex;
     align-items: center;
     gap: 2rem;
+
+    @media screen and (max-width: 600px) {
+      justify-content: center;
+    }
 
     li {
       display: flex;
@@ -103,6 +107,10 @@ export default {
 
     .logo {
       margin: 0 auto;
+
+      @media screen and (max-width: 600px) {
+        display: none;
+      }
     }
 
     .lang {
@@ -112,6 +120,16 @@ export default {
 
       span {
         margin-left: 0.5rem;
+      }
+
+      @media screen and (max-width: 600px) {
+        display: none;
+      }
+    }
+
+    .icon {
+      @media screen and (max-width: 600px) {
+        display: none;
       }
     }
 
